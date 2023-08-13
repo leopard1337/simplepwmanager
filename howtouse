@@ -1,0 +1,6 @@
+Make sure you have Python and Scrapy installed on your system. 
+
+To run use command:
+scrapy crawl myspider
+
+Make sure to replace 'INPUT_URL' with the actual URL you want to scrape.
